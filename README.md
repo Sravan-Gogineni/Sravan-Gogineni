@@ -91,7 +91,7 @@ Relevant Coursework: Data Structures & Algorithms, DBMS, Machine Learning, Linux
 
 ## 🌱 **Let’s Connect!**
 
-Feel free to explore my repositories and reach out if you’re interested in collaborating on projects or just want to chat about data science, machine learning, or cloud engineering. I'm always excited to learn new things and share ideas!
+Feel free to explore my repositories and reach out if you’re interested in collaborating on projects or just want to chat about Data engineering & Analytics. I'm always excited to learn new things and share ideas!
 
 ---
 
