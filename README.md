@@ -84,7 +84,7 @@ Relevant Coursework: Data Structures & Algorithms, DBMS, Machine Learning, Linux
 
 ## 📞 **Contact**
 
-- **Email**: [sravanchowdary.gogineni@gmail.com](mailto:sravanchowdary.gogineni@gmail.com)
+- **Email**: [sravangogineni19@gmail.com](mailto:sravanchowdary.gogineni@gmail.com)
 - **Phone**: +1 (203) 887 9730
 - **LinkedIn**: [LinkedIn Profile](#)
 - **LeetCode**: [LeetCode Profile](#)
