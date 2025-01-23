@@ -2,7 +2,7 @@ Certainly! Here's a clean, professional, and engaging GitHub README that highlig
 
 ---
 
-# Hi, I'm Sravanchowdary Gogineni 👋
+# Hi, I'm Sravan Chowdary Gogineni 👋
 
 I'm a **Data Science graduate student** with a focus on **data engineering**, **cloud technologies**, and **data-driven decision-making**. My passion lies in leveraging data to solve real-world problems, optimize processes, and drive impactful insights. Through a blend of analytical, engineering, and problem-solving skills, I aim to contribute to innovative solutions and organizational success.
 
