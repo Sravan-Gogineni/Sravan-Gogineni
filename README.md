@@ -48,7 +48,7 @@ Relevant Coursework: Data Structures & Algorithms, DBMS, Machine Learning, Linux
 
 - Created **Power BI reports** to track monthly food distribution, improving process efficiency by **15%**.
 - Developed comparison reports across multiple centers, resulting in a **10%** performance boost.
-- Designed an **ETL pipeline** using **AWS S3** for image processing and **AWS Lambda** for metadata extraction, reducing processing time by **25%**.
+- Designed an **ETL pipeline** using **AWS S3** for image storing and **AWS Lambda** for metadata extraction, reducing processing time by **25%**.
 - Automated data workflows, cutting manual processing time by **20%** and speeding up decision-making.
 
 ---
