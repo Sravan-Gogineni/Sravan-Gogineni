@@ -55,7 +55,7 @@ Relevant Coursework: Data Structures & Algorithms, DBMS, Machine Learning, Linux
 *University of New Haven*
 *Feb 2025 - Present*
 
-- Engineered comprehensive course catalog datasets by web-scraping and integrating missing courses, improving data completeness.Automated student course assignments based on enrollment data, increasing efficiency by 60% and eliminating manual workload.Built predictive neural network models achieving 83% accuracy for undergraduate admissions, streamlining application focus from 13,000 to 2,000 priority cases.Analyzed monthly visa data by country to provide operational insights supporting university planning.
+- Engineered comprehensive course catalog datasets by web-scraping and integrating missing courses, improving data completeness.Automated student course assignments based on enrollment data, increasing efficiency by 60% and eliminating manual  workload.Built predictive neural network models achieving 83% accuracy for undergraduate admissions, streamlining application focus from 13,000 to 2,000 priority cases.Analyzed monthly visa data by country to provide operational insights supporting university planning.
 
 ---
 ## 🛠️ **Projects**
