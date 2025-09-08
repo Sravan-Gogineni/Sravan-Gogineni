@@ -42,7 +42,7 @@ Relevant Coursework: Data Structures & Algorithms, DBMS, Machine Learning, Linux
 
 ## 💼 **Experience**
 
-**Data Analyst Intern**  
+**Data Engineer Intern**  
 *DownTown Evening Soup Kitchen, New Haven, CT*  
 *April 2024 – Present*
 
@@ -51,7 +51,7 @@ Relevant Coursework: Data Structures & Algorithms, DBMS, Machine Learning, Linux
 - Designed an **ETL pipeline** using **AWS S3** for image storing and **AWS Lambda** for metadata extraction, reducing processing time by **25%**.
 - Automated data workflows, cutting manual processing time by **20%** and speeding up decision-making.
 
-**Graduate Student Data Analyst**
+**Graduate Student Data Engineer**
 *University of New Haven*
 *Feb 2025 - Present*
 
