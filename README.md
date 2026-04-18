@@ -13,7 +13,7 @@ I'm a **Data Science graduate student** with a focus on **data engineering**, **
 
 ### Tools & Frameworks:
 - **Power BI**, **Tableau**, **Apache Airflow**, **Zapier**, **Docker**
-- **Flask**, **Django**, **Spark**
+- **Flask**, **Spark**
 
 ### Cloud & Databases:
 - **AWS**: S3, EC2, Lambda, RDS, VPC, EMR, Glue
