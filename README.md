@@ -2,7 +2,8 @@
 
 # Hi, I'm Sravan Chowdary 👋
 
-I'm a **Data Science graduate student** with a focus on **data engineering**, **cloud technologies**, and **data-driven decision-making**. My passion lies in leveraging data to solve real-world problems, optimize processes, and drive impactful insights. Through a blend of analytical, engineering, and problem-solving skills, I aim to contribute to innovative solutions and organizational success.
+Data Analytics and Engineering professional with a Master's in Data Science, specializing in building ETL pipelines, cloud data infrastructure,
+and predictive models. Experienced in driving data integrity and large-scale data movement across CRM and ERP systems in higher education. Proficient in Python, SQL, AWS, GCP and Airflow..
 
 ---
 
