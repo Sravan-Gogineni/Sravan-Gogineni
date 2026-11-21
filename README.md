@@ -38,25 +38,56 @@ I build software end to end — from distributed ingestion and real-time streami
 
 ## Featured Projects
 
-### 🚍 [Helsinki Real-Time Transit Streaming](https://github.com/Sravan-Gogineni/Helsinki-Publi-Transport-App)
-Live public-transport streaming pipeline on GCP. A [Java microservice](https://github.com/Sravan-Gogineni/HFP-Backend-Microservice) runs on **Dataflow**, consuming high-frequency vehicle positions from a public **MQTT** broker and streaming them into **Pub/Sub** for downstream processing and visualization.
-`Java · GCP Dataflow · Pub/Sub · MQTT`
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Sravan-Gogineni/Helsinki-Publi-Transport-App">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sravan-Gogineni&repo=Helsinki-Publi-Transport-App&theme=github_dark&hide_border=true" alt="Helsinki Real-Time Transit Streaming" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Sravan-Gogineni/HFP-Backend-Microservice">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sravan-Gogineni&repo=HFP-Backend-Microservice&theme=github_dark&hide_border=true" alt="HFP Backend Microservice" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Sravan-Gogineni/job_insights">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sravan-Gogineni&repo=job_insights&theme=github_dark&hide_border=true" alt="Job Market Insights" />
+      </a>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
 
-### 🤖 [RAG Systems](https://github.com/Sravan-Gogineni/RAGSYSTEM)
-Retrieval-augmented generation pipelines — a [research-paper RAG](https://github.com/Sravan-Gogineni/RAGSYSTEM) over recent NLP literature, and [RAG-ONEGrad](https://github.com/Sravan-Gogineni/RAG-ONEGrad), a chatbot assistant for a graduate-application product.
-`Python · LLMs · Vector Search`
+**🚍 Helsinki Real-Time Transit Streaming** — live public-transport pipeline on GCP: a Java microservice on **Dataflow** streams high-frequency vehicle positions from a public **MQTT** broker into **Pub/Sub** for downstream processing.
+`Java · Dataflow · Pub/Sub · MQTT`
 
-### 🛫 [Visa Analytics Pipeline](https://github.com/Sravan-Gogineni/Airflow-2)
-End-to-end visa-issuance analysis — scraping monthly issuance data, orchestrating the pipeline with **Apache Airflow**, and surfacing country-level operational insights.
-`Python · Airflow · ETL`
-
-### 🎓 [Course Recommendation Engine](https://github.com/Sravan-Gogineni/Recommendation_Engine)
-Recommendation system and [automated course assigner](https://github.com/Sravan-Gogineni/Course_Assigner) for University of New Haven — built from web-scraped course catalogs to match students to courses from enrollment data.
-`Python · ML · Recommendation`
-
-### 🔎 [Job Market Insights](https://github.com/Sravan-Gogineni/job_insights)
-Scrapes and analyzes job-posting data for market trends, paired with a [job tracker](https://github.com/Sravan-Gogineni/jobtracker) that monitors applications straight from email.
+**🔎 Job Market Insights** — scrapes and analyzes job-posting data for market trends, paired with an email-based application tracker.
 `Python · Scraping · Analytics`
+
+Also built (private): **RAG systems** (research-paper retrieval + a grad-app chatbot), an **Airflow visa-analytics pipeline**, and a **university course-recommendation engine**.
+
+---
+
+## How I Build Data Pipelines
+
+```mermaid
+flowchart LR
+    A[Events / IoT] --> B[(MQTT Broker)]
+    B --> C[Microservice<br/>on Dataflow]
+    C --> D[(Pub/Sub)]
+    D --> E[Stream Processing]
+    E --> Q{Data Quality}
+    Q -->|pass| F[(Lakehouse<br/>Bronze → Silver → Gold)]
+    Q -->|fail| X[(Dead-letter)]
+    F --> G[Transforms / dbt]
+    G --> H[(BigQuery)]
+    H --> I[Dashboards & ML]
+    AF[[Airflow]] -. orchestrates .-> E
+    AF -. orchestrates .-> G
+```
 
 ---
 
