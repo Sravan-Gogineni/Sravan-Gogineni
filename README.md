@@ -1,5 +1,3 @@
-<img align="right" width="150" src="assets/profile.png" alt="Sravan Gogineni" />
-
 # Sravan Gogineni
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=1F6FEB&vCenter=true&width=600&lines=Engineer+%26+big-data+enthusiast;Streaming+%7C+Airflow+%7C+Spark+%7C+BigQuery;Building+reliable+data+systems+end+to+end)](https://github.com/Sravan-Gogineni)
