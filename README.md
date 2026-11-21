@@ -58,8 +58,8 @@ I build software end to end — from distributed ingestion and real-time streami
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/Sravan-Gogineni/ward_finder_desk">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sravan-Gogineni&repo=ward_finder_desk&theme=github_dark&hide_border=true" alt="Image Geo-Ingestion Pipeline" />
+      <a href="https://github.com/Sravan-Gogineni/filetype_comparsion">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sravan-Gogineni&repo=filetype_comparsion&theme=github_dark&hide_border=true" alt="File Format Benchmark" />
       </a>
     </td>
   </tr>
@@ -71,8 +71,8 @@ I build software end to end — from distributed ingestion and real-time streami
 **🔎 Job Market Insights** — scrapes and analyzes job-posting data for market trends, paired with an email-based application tracker.
 `Python · Scraping · Analytics`
 
-**🗺️ Image Geo-Ingestion Pipeline** — extracts location metadata from images, processes it, and ingests the results into **AWS S3** as structured CSV.
-`Python · AWS S3 · ETL`
+**🧪 File Format Benchmark** — compares read/write and compute times across **Avro**, **CSV**, and **Parquet** to guide storage-format choices for analytical workloads.
+`Avro · Parquet · CSV`
 
 Also built (private): **RAG systems** (research-paper retrieval + a grad-app chatbot), an **Airflow visa-analytics pipeline**, and a **university course-recommendation engine**.
 
