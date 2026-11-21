@@ -1,3 +1,5 @@
+<img align="right" width="150" src="assets/profile.png" alt="Sravan Gogineni" />
+
 # Sravan Gogineni
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=1F6FEB&vCenter=true&width=600&lines=Engineer+%26+big-data+enthusiast;Streaming+%7C+Airflow+%7C+Spark+%7C+BigQuery;Building+reliable+data+systems+end+to+end)](https://github.com/Sravan-Gogineni)
@@ -88,20 +90,6 @@ flowchart LR
     AF[[Airflow]] -. orchestrates .-> E
     AF -. orchestrates .-> G
 ```
-
----
-
-## Experience
-
-**Data Engineer Intern** — *Downtown Evening Soup Kitchen, New Haven, CT* · Apr 2024 – Present
-- Built an **ETL pipeline** (AWS S3 for image storage, Lambda for metadata extraction) that cut processing time by **25%**.
-- Automated data workflows, reducing manual processing time by **20%**.
-- Delivered **Power BI** reporting on food distribution, improving process efficiency by **15%**.
-
-**Graduate Student Data Engineer** — *University of New Haven* · Feb 2025 – Present
-- Automated student course assignment from enrollment data, increasing efficiency by **60%**.
-- Built predictive neural-network models (**83%** accuracy) for admissions, narrowing focus from **13,000 → 2,000** priority applications.
-- Engineered course-catalog datasets via web scraping to improve data completeness, and analyzed visa data to support university planning.
 
 ---
 
